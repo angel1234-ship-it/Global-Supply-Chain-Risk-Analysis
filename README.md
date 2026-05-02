@@ -158,7 +158,7 @@ The dataset was redesigned using a **star schema model** for efficient analysis.
 | File Type             | Description              | Link              |
 | --------------------- | ------------------------ | ----------------- |
 | 📊 Power BI Dashboard | Interactive `.pbix` file | [Open](your-link) |
-| 📄 Project Report     | Detailed analysis report | [View](your-link) |
+| 📄 Project Report     | Detailed analysis report | [View](https://github.com/angel1234-ship-it/Global-Supply-Chain-Risk-Analysis/blob/main/Main_project.pdf) |
 | 📽 Presentation       | Project summary slides   | [View](your-link) |
 
 ---
