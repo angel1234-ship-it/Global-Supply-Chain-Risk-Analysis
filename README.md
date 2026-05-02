@@ -172,14 +172,7 @@ The dataset was redesigned using a **star schema model** for efficient analysis.
 
 ---
 
-## ▶️ How to Use
 
-1. Download the `.pbix` file
-2. Open using Power BI Desktop
-3. Use slicers to filter and explore data
-4. Navigate between pages using the page navigator
-
----
 
 ## 📌 Conclusion
 
